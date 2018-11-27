@@ -2,7 +2,7 @@
   "name": "@alesmenzel/vargs",
   "version": "1.0.0",
   "description": "Variable number of arguments",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "test:suite": "mocha ./src/**/*.spec.js",
     "test:lint": "eslint .",
@@ -49,5 +49,10 @@
       "pre-commit": "lint-staged",
       "pre-push": "npm test"
     }
-  }
+  },
+  "files": [
+    "src",
+    "LICENSE",
+    "README.md"
+  ]
 }
