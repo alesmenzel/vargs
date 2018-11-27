@@ -36,7 +36,7 @@
     "prettier": "^1.15.2"
   },
   "dependencies": {
-    "@alesmenzel/function-arguments": "^1.0.0"
+    "@alesmenzel/function-arguments": "^1.1.0"
   },
   "lint-staged": {
     "*.{js,json,css,md}": [
