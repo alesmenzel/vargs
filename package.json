@@ -1,6 +1,6 @@
 {
   "name": "@alesmenzel/vargs",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Variable number of arguments",
   "main": "./src/index.js",
   "scripts": {
