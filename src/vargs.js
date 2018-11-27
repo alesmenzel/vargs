@@ -1,5 +1,5 @@
-const isFunction = require('./helper/is-function');
 const functionArguments = require('@alesmenzel/function-arguments');
+const isFunction = require('./helper/is-function');
 
 /**
  * Variable amount of arguments
